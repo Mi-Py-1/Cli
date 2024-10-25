@@ -129,3 +129,5 @@ Yes! We'd strongly encourage you to look at the source code of the `uptime.sh` f
 ---
 
 Happy coding!
+
+First project with guidance to play with some of the basic functionalities of Github. 
